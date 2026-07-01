@@ -1,0 +1,17 @@
+donor_id,payment_date,amount_paid,payment_method,payment_status,refund_flag
+1,2024-01-23,500,credit_card,paid,0
+2,2024-02-17,1200,wire,paid,0
+3,2024-03-13,300,credit_card,paid,0
+4,2024-02-20,2000,wire,paid,0
+5,2024-03-15,100,credit_card,paid,0
+1,2024-06-28,750,check,paid,0
+2,2024-07-08,1200,wire,paid,0
+3,2024-09-25,400,credit_card,paid,0
+4,2024-05-18,1500,check,paid,0
+5,2023-12-08,150,credit_card,paid,0
+1,2023-06-13,500,credit_card,paid,0
+2,2023-08-23,1000,wire,paid,0
+1,2024-01-23,500,credit_card,paid,0
+,2024-04-05,400,credit_card,paid,0
+2,2024-08-20,,wire,paid,0
+3,2024-10-05,-200,credit_card,refunded,1

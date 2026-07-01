@@ -1,0 +1,17 @@
+donor_id,donation_date,donation_amount,campaign_name,channel,donation_type,status
+1,2024-01-20,500,Spring Appeal,email,one-time,completed
+2,2024-02-15,1200,Major Gift,phone,recurring,completed
+3,2024-03-10,300,Email Blast,email,one-time,completed
+4,2024-02-18,2000,Major Gift,phone,recurring,completed
+5,2024-03-12,100,Email Blast,email,one-time,completed
+1,2024-06-25,750,Summer Ask,direct_mail,one-time,completed
+2,2024-07-05,1200,Major Gift,phone,recurring,completed
+3,2024-09-22,400,Fall Appeal,email,one-time,completed
+4,2024-05-15,1500,Spring Appeal,direct_mail,one-time,completed
+5,2023-12-05,150,Year End,email,one-time,completed
+1,2023-06-10,500,Spring Appeal,email,one-time,completed
+2,2023-08-20,1000,Major Gift,phone,recurring,completed
+,2024-04-01,400,Email Blast,email,one-time,completed
+2,2024-08-15,,Summer Ask,phone,recurring,completed
+1,2024-01-20,500,Spring Appeal,email,one-time,completed
+3,2024-10-05,-200,Refund,email,one-time,refunded

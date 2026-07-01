@@ -1,0 +1,6 @@
+donor_id,reference_date,last_donation_date,donation_count,total_amount_donated,avg_donation,max_single_donation,recency_days,donation_count_1yr,total_amount_donated_1yr,avg_days_between_donations,is_recurring,lapsed_flag,giving_trend,total_payments,total_refunds,refund_rate,preferred_payment_method,avg_days_to_settle,emails_sent,events_attended,is_unsubscribed,open_rate,click_rate,days_since_last_open,unique_campaigns_count,unique_channels_count,multi_channel_flag,first_channel,last_channel
+1,2026-06-28,2024-06-25,3,1750.0,583.3333333333334,750.0,733,0.0,0.0,190.5,False,1,flat,3,0,0.0,credit_card,3.0,3,0,0,1.0,1.0,743.0,2,2,1,email,direct_mail
+2,2026-06-28,2024-07-05,3,3400.0,1133.3333333333333,1200.0,723,0.0,0.0,160.0,True,1,down,3,0,0.0,wire,2.6,3,1,0,0.6666666666666666,0.0,874.0,1,1,0,phone,phone
+3,2026-06-28,2024-09-22,2,700.0,350.0,400.0,644,0.0,0.0,196.0,False,1,down,2,0,0.0,credit_card,3.0,2,0,0,1.0,0.5,656.0,2,1,0,email,email
+4,2026-06-28,2024-05-15,2,3500.0,1750.0,2000.0,774,0.0,0.0,87.0,True,1,flat,2,0,0.0,check,2.5,2,2,0,1.0,1.0,784.0,2,2,1,phone,direct_mail
+5,2026-06-28,2024-03-12,2,250.0,125.0,150.0,838,0.0,0.0,98.0,False,1,flat,2,0,0.0,credit_card,3.0,2,0,1,0.0,0.0,,2,1,0,email,email
